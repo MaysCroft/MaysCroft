@@ -1,9 +1,10 @@
 [![MasterHead](https://img.freepik.com/free-photo/fantasy-style-galaxy-background_23-2151114320.jpg?t=st=1718237319~exp=1718240919~hmac=18ffe756ec99ebbb6d09c1b01fcb880728ebf1be4ab906d3f28f3a00cbc3a4fe&w=1380)](https://github.com/MaysCroft)
 # **Hi there, I'm Maycon, a developer in the making.**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaysCroft&theme=tokyonight&show_icons=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaysCroft&theme=tokyonight&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=MaysCroft&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MaysCroft&hide=html,css,java,shaderlab,kotlin,hlsl&theme=tokyonight">
+</p>
 
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MaysCroft&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0&exclude_days=Sun%2CSat" />
