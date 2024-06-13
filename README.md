@@ -5,6 +5,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaysCroft&theme=tokyonight&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MaysCroft&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
+</p> 
+
 <h3 align="right">Connect with me:</h3>
 <p align="right">
 <a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40"/></a>
