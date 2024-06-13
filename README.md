@@ -6,7 +6,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaysCroft&theme=tokyonight&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MaysCroft&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MaysCroft&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0&exclude_days=Sun%2CSat" />
 </p> 
 
 <h3 align="right">Connect with me:</h3>
