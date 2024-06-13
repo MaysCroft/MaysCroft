@@ -1,7 +1,7 @@
 [![MasterHead](https://img.freepik.com/free-photo/fantasy-style-galaxy-background_23-2151114320.jpg?t=st=1718237319~exp=1718240919~hmac=18ffe756ec99ebbb6d09c1b01fcb880728ebf1be4ab906d3f28f3a00cbc3a4fe&w=1380)](https://github.com/MaysCroft)
 ## <h3 align="center">Hi there, I'm Maycon, a developer in the making.</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaysCroft&theme=tokyonight&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak]<align="center">(https://github-readme-streak-stats.herokuapp.com?user=MaysCroft&theme=tokyonight&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
