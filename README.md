@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaysCroft&theme=tokyonight&show_icons=true)
 
-<p align="center" [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaysCroft&theme=tokyonight&exclude_days=Sun%2CSat)](https://git.io/streak-stats)></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaysCroft&theme=tokyonight&exclude_days=Sun%2CSat)](https://git.io/streak-stats)>
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
