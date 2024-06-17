@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="" />
+<img src="https://github.com/MaysCroft/MaysCroft/blob/main/Images/MaysCroft%20Banner.png" />
 
 # **Hi there, I'm Maycon, a developer in the making.**
 
