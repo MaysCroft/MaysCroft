@@ -3,7 +3,7 @@
 </p align="center">
 <img src="https://github.com/MaysCroft/MaysCroft/blob/main/Images/MaysCroft%20Banner.png" />
 
-# **Hi there, I'm Maycon, a developer in the making.**
+<h2 align="center">Hi there, I'm Maycon, a developer in the making.</h2>
 
 <p align = "center">
  <img src="https://github-readme-stats.vercel.app/api?username=MaysCroft&show_icons=true&theme=tokyonight&line_height=27" />
