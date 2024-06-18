@@ -3,7 +3,9 @@
 </p align="center">
 <img src="https://github.com/MaysCroft/MaysCroft/blob/main/Images/MaysCroft%20Banner.png" />
 
-<h2 align="center">Hi there, I'm Maycon, a developer in the making.</h2>
+<h2 align="center"> Hi there, I'm Maycon, a developer in the making. </h2>
+
+<h2 align="center"> My Github Stats </h2>
 
 <p align = "center">
  <img src="https://github-readme-stats.vercel.app/api?username=MaysCroft&show_icons=true&theme=tokyonight&line_height=27" />
@@ -14,7 +16,7 @@
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MaysCroft&theme=tokyonight&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </p> 
 
-<h3 align="right">Connect with me:</h3>
+<h3 align="right"> Connect with me: </h3>
 <p align="right">
 <a href="https://www.linkedin.com/in/maycon-moraes-431611306/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40"/></a>
 <a href="https://www.facebook.com/maycon.croft/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
