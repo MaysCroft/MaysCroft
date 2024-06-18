@@ -5,7 +5,7 @@
 
 <h2 align="center"> Hi there, I'm Maycon, a developer in the making. </h2>
 
-<!-- <p align="left">
+<p align="left">
   I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
   I'm deep into Web 🕸️ Development.
   - 🔭 I’m currently working on ...
@@ -17,7 +17,7 @@
   - 😄 Pronouns: ...
   - ⚡ Fun fact: ...
   -->
-</p>   -->
+</p>
 
 <h2 align="center"> My Github Stats </h2>
 
