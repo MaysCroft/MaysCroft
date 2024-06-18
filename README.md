@@ -14,6 +14,8 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MaysCroft&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0&exclude_days=Sun%2CSat" />
 </p> 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaysCroft)](https://git.io/streak-stats)
+
 <h3 align="right">Connect with me:</h3>
 <p align="right">
 <a href="https://www.linkedin.com/in/maycon-moraes-431611306/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40"/></a>
