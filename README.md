@@ -6,8 +6,8 @@
 # **Hi there, I'm Maycon, a developer in the making.**
 
 <p align = "center">
- <img src="https://github-readme-stats.vercel.app/api?username=MaysCroft&show_icons=true&theme=tokyonight&line_height=27" alt="GitHub Streak" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaysCroft&hide=html,css,java,shaderlab,kotlin,hlsl&theme=tokyonight" alt="GitHub Streak" />
+ <img src="https://github-readme-stats.vercel.app/api?username=MaysCroft&show_icons=true&theme=tokyonight&line_height=27" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaysCroft&hide=html,css,java,shaderlab,kotlin,hlsl&theme=tokyonight" />
 </p>
 
 <p align = "center">
