@@ -16,7 +16,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
   - ⚡ Fun fact: ... -->
 
 May the sound of waves accompany your slumber, and may the mountains and the wilds sing for you.
-May the acient trees bear your worries, and may the stars guide your road ahead.
+May the ancient trees bear your worries, and may the stars guide your road ahead.
 Memories are eternal, and blessings will always be by your side.
 
 <h2 align="center"> My Github Stats </h2>
