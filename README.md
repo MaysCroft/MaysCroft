@@ -32,10 +32,10 @@ Memories are eternal, and blessings will always be by your side.
 
 <h3 align="right"> Connect with me: </h3>
 <p align="right">
-<a href="https://www.linkedin.com/in/maycon-moraes-431611306/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/maycon-moraes-431611306/" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" alt="" height="30" width="40"/></a>
 <a href="https://www.facebook.com/maycon.croft/" target="blank"><img align="center" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/1656f82b5b9a31968ab033db39768b4d0ffaf872/public/icons/facebook/facebook.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/maycon_croft/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/maycon_croft/" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="seu link" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/youtube/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <!--
