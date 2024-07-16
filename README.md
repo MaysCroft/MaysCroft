@@ -30,6 +30,8 @@ Memories are eternal, and blessings will always be by your side.
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MaysCroft&theme=tokyonight&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </p> 
 
+<p> <img src="https://github.com/Mayscroft/github-workflows/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/> </p>
+
 <h3 align="right"> Connect with me: </h3>
 <p align="right">
 <a href="https://www.linkedin.com/in/maycon-moraes-431611306/" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" alt="" height="30" width="40"/></a>
