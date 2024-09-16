@@ -23,7 +23,7 @@ Memories are eternal, and blessings will always be by your side.
 
 <p align = "center">
  <img src="https://github-readme-stats.vercel.app/api?username=MaysCroft&show_icons=true&theme=tokyonight&line_height=27" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaysCroft&hide=html,css,java,shaderlab,kotlin,hlsl&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaysCroft&theme=tokyonight" />
 </p>
 
 <p align = "center">
